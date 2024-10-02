@@ -1,2 +1,4 @@
-# FW-Editor
-Csb parser for FW-Editor based games.
+# Tested
+-ゆきうた | Yukiuta <br>
+-ふたごえっち | Futago Ecchi<br>
+-セパレイトブルー | Separate Blue<br>
